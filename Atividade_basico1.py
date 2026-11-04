@@ -1,0 +1,5 @@
+print(" --- BEM-VINDO AO MUNDO DE PYTHON ---")
+nome_do_heroi = input(" Insira o nome do heroi: ")
+print(f"O Heroi {nome_do_heroi} acaba de entrar na Guilda")
+nome_da_cidade = input(" para qual cidade voce vai viajar ? ")
+print(f" Viajante, voce esta a caminho de {nome_da_cidade}, tome cuidado!")
