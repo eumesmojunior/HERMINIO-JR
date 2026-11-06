@@ -1,0 +1,1 @@
+print("Espada", "Escudo", "Poção")
